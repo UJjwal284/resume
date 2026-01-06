@@ -14,7 +14,7 @@ Gurgaon, Haryana, India
 * Email: [ujjwalpr28@protonmail.com](mailto:ujjwalpr28@protonmail.com)
 * Phone: 8901252008
 * LinkedIn: [https://www.linkedin.com/in/ujjwal-pratap-98b463229/](https://www.linkedin.com/in/ujjwal-pratap-98b463229/)
-* GitHub: [https://github.com/](https://github.com/)
+* GitHub: [https://github.com/UJjwal284](https://github.com/UJjwal284)
 
 ---
 
