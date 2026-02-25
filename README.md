@@ -1,125 +1,128 @@
-# Hi, I'm Ujjwal Pratap Ratnakar
+# Ujjwal Pratap Ratnakar
 
-Backend and DevOps Engineer with 3+ years of experience building, deploying, and operating production-grade systems in
-enterprise environments.
-
----
-
-## 📍 Location
-
-Gurgaon, Haryana, India
-
-## 📫 Contact
-
-* Email: [ujjwalpr28@protonmail.com](mailto:ujjwalpr28@protonmail.com)
-* Phone: 8901252008
-* LinkedIn: [https://www.linkedin.com/in/ujjwal-pratap-98b463229/](https://www.linkedin.com/in/ujjwal-pratap-98b463229/)
-* GitHub: [https://github.com/UJjwal284](https://github.com/UJjwal284)
+📍 Gurgaon, Haryana, India  
+📧 ujjwalpr28@protonmail.com  
+📞 +91 8901252008  
+🔗 [LinkedIn](https://www.linkedin.com/in/ujjwal-pratap-98b463229/)  
+🔗 GitHub
 
 ---
 
-## 🧠 Summary
+## Summary
 
-I specialize in designing and operating scalable backend systems and cloud infrastructure with a strong DevOps mindset.
-My work focuses on automation, reliability, and performance. I have hands-on experience owning systems end-to-end, from
-development and CI/CD to deployment, monitoring, and release execution.
+Senior Software Engineer with 3+ years of experience designing, automating, and operating production-scale cloud native systems in enterprise environments.
 
-I have consistently reduced deployment times, improved system reliability, and supported multi-team onboarding through
-clean architecture and robust platform practices.
+Experienced in AWS infrastructure, Kubernetes platforms, CI/CD automation, and Infrastructure as Code using Terraform. Strong focus on deployment automation, platform reliability, scalability, and production operations ownership.
 
 ---
 
-## 🛠️ Skills
+## Skills
 
-### Cloud & DevOps
+### Cloud, Containers and Infrastructure
+- AWS (EC2, VPC, IAM, S3, RDS)
+- Docker
+- Kubernetes
+- OpenShift
+- Helm
+- Terraform
 
-* AWS: EC2, VPC, S3, RDS, IAM
-* Docker, Kubernetes, OpenShift
-* Jenkins, Terraform, Helm
-* Git, Linux
+### CI/CD and Automation
+- Jenkins
+- Git
+- Pipeline Automation
+- Infrastructure Provisioning
+- Release Engineering
 
-### Backend & Databases
+### Programming and Databases
+- Java
+- Spring Boot
+- Node.js
+- Express
+- SQL
+- PostgreSQL
+- Oracle DB
 
-* Java, Spring Boot
-* SQL, PostgreSQL, Oracle DB
-* Node.js, Express
-
-### Frontend
-
-* ReactJS
-
----
-
-## 💼 Experience
-
-### Senior Software Engineer | Backend & DevOps
-
-**Incedo Inc., Gurgaon**
-*Apr 2024 – Present*
-
-* Owned and delivered production-grade backend and platform components with zero major escalations on owned modules.
-* Optimized Spring Boot APIs and Oracle SQL queries, improving response times by ~25% through query tuning and
-  service-level improvements.
-* Built and maintained CI/CD pipelines using Jenkins, Docker, Helm, and OpenShift, reducing deployment time from ~5
-  hours to ~35 minutes.
-* Deployed and operated containerized workloads on OpenShift with high availability, rolling updates, and rollback
-  strategies.
-* Contributed to platform and deployment architecture enabling parallel onboarding of multiple teams without resource
-  contention.
-* Improved observability and debugging through refactoring and standardized logging practices.
-
-### Software Engineer
-
-**Incedo Inc., Gurgaon**
-*Jun 2022 – Apr 2024*
-
-* Developed and maintained Spring Boot microservices following clean and modular architecture principles.
-* Automated application deployments using Jenkins pipelines integrated with Docker and AWS infrastructure.
-* Supported production releases, troubleshooting, and incident resolution with minimal delivery impact.
-* Collaborated closely with DevOps and platform teams during releases and environment stabilization.
-* Built internal ReactJS tools to improve operational workflows and usability.
+### Systems and Operations
+- Linux
+- Production Deployments
+- Incident Troubleshooting
+- Logging and Debugging
+- High Availability Systems
 
 ---
 
-## 🚀 Projects
+## Experience
+
+### Senior Software Engineer  
+**Incedo Inc., Gurgaon**  
+_Apr 2024 – Present_
+
+- Designed and operated production-grade deployment platforms supporting enterprise-scale applications.
+- Built optimized CI/CD pipelines using Jenkins, Docker, Helm, and OpenShift.
+- Reduced deployment time from ~5 hours to 35 minutes through automation and pipeline parallelization.
+- Managed containerized workloads with rolling deployments and automated rollback strategies.
+- Improved observability, logging standards, and debugging efficiency.
+- Enhanced backend and database performance achieving ~25% latency improvement.
+- Supported production releases and incident resolution across environments.
+
+---
+
+### Software Engineer  
+**Incedo Inc., Gurgaon**  
+_Jun 2022 – Apr 2024_
+
+- Developed cloud-deployed Spring Boot microservices using scalable architecture patterns.
+- Automated deployments using Jenkins pipelines integrated with Docker and AWS.
+- Managed release cycles and deployment reliability with DevOps teams.
+- Built internal operational tools using ReactJS.
+- Supported production incidents with minimal downtime.
+
+---
+
+## Projects
 
 ### AWS Infrastructure Automation with Terraform
-
-* Automated provisioning of AWS infrastructure including VPC, EC2, S3, RDS, and IAM.
-* Built reusable and version-controlled Terraform modules.
-* Reduced infrastructure setup time by ~40% and improved environment consistency.
-
-### Data Science Workbench (DSW)
-
-* Designed and deployed a data science platform using JupyterHub, MLflow, Airflow, and Spark.
-* Containerized services with Docker and deployed on OpenShift using Helm charts.
-* Enabled concurrent multi-team onboarding by resolving resource contention and deployment conflicts.
-
-### FindMeTrek
-
-* Built and deployed a cloud-based application with a ReactJS frontend and Node.js backend.
-* Designed a cost-optimized AWS architecture using S3, EC2, and PostgreSQL (Supabase).
-* Integrated Google Maps and location-based APIs to enhance trek discovery and user experience.
+- Automated provisioning of AWS resources including VPC, EC2, S3, RDS, and IAM.
+- Created reusable Infrastructure as Code modules.
+- Reduced infrastructure provisioning time by ~40%.
+- Enabled standardized multi-environment deployments.
 
 ---
 
-## 🎓 Education
+### Data Science Workbench (DSW)
+- Designed integrated platform using JupyterHub, MLflow, Airflow, and Spark.
+- Containerized services using Docker and deployed via OpenShift Helm charts.
+- Enabled multi-team onboarding through workload isolation.
+- Improved scalability using container orchestration practices.
 
-**Bachelor of Technology in Information Technology**
+---
+
+### FindMeTrek
+- Built cloud-based application with ReactJS frontend and Node.js backend.
+- Designed cost-optimized AWS architecture using EC2, S3, and PostgreSQL.
+- Integrated location-based services and external APIs.
+
+---
+
+## Education
+
+**Bachelor of Technology (Information Technology)**  
 Chandigarh Group of Colleges, Landran, Punjab
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-* AWS Certified Solutions Architect – Associate
-* AWS Certified Cloud Practitioner
+- AWS Certified Solutions Architect Associate
+- AWS Certified Cloud Practitioner
 
 ---
 
-## 📌 Interests
+## Core Focus Areas
 
-* Cloud architecture and infrastructure automation
-* DevOps best practices and platform engineering
-* Building scalable backend systems
-* Outdoor trekking and exploration
+- Cloud Architecture
+- DevOps Engineering
+- Platform Automation
+- Kubernetes Operations
+- Infrastructure as Code
+- Production Reliability
